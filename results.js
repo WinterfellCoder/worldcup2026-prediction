@@ -180,4 +180,4 @@ const RESULTS = {
     goldenBoot: [],
     goldenBall: []
   }
-};};
+};
