@@ -13,7 +13,7 @@ const RESULTS = {
       "Canada__Switzerland": { "home": -1, "away": -1 },
       "Canada__Qatar": { "home": -1, "away": -1 },
       "Canada__Bosnia & Herzegovina": { "home": 1, "away": 1 },
-      "Switzerland__Qatar": { "home": 1, "away": 1 },
+      "Qatar__Switzerland": { "home": 1, "away": 1 },
       "Switzerland__Bosnia & Herzegovina": { "home": -1, "away": -1 },
       "Qatar__Bosnia & Herzegovina": { "home": -1, "away": -1 }      
     },
@@ -35,22 +35,22 @@ const RESULTS = {
     },
     "E": {
       "Curaçao__Ecuador": { "home": -1, "away": -1 },
-      "Curaçao__Germany": { "home": 7, "away": 1 },
+      "Germany__Curaçao": { "home": 7, "away": 1 },
       "Curaçao__Ivory Coast": { "home": -1, "away": -1 },
       "Ecuador__Germany": { "home": -1, "away": -1 },
-      "Ecuador__Ivory Coast": { "home": 1, "away": 0 },
+      "Ivory Coast__Ecuador": { "home": 1, "away": 0 },
       "Germany__Ivory Coast": { "home": -1, "away": -1 }
     },
     "F": {
-      "Japan__Netherlands": { "home": 2, "away": 2 },
+      "Netherlands__Japan": { "home": 2, "away": 2 },
       "Japan__Tunisia": { "home": -1, "away": -1 },
       "Japan__Sweden": { "home": -1, "away": -1 },
       "Netherlands__Tunisia": { "home": -1, "away": -1 },
       "Netherlands__Sweden": { "home": -1, "away": -1 },
-      "Tunisia__Sweden": { "home": 5, "away": 1 }
+      "Sweden__Tunisia": { "home": 5, "away": 1 }
     },
      "G": {
-      "Egypt__Belgium": { "home": 1, "away": 1 },
+      "Belgium__Egypt": { "home": 1, "away": 1 },
       "Egypt__Iran": { "home": -1, "away": -1 },
       "Egypt__New Zealand": { "home": -1, "away": -1 },
       "Belgium__Iran": { "home": -1, "away": -1 },
@@ -59,7 +59,7 @@ const RESULTS = {
     },
     "H": {
       "Uruguay__Spain": { "home": -1, "away": -1 },
-      "Uruguay__Saudi Arabia": { "home": 1, "away": 1 },
+      "Saudi Arabia__Uruguay": { "home": 1, "away": 1 },
       "Uruguay__Cape Verde": { "home": -1, "away": -1 },
       "Spain__Saudi Arabia": { "home": -1, "away": -1 },
       "Spain__Cape Verde": { "home": 0, "away": 0 },
@@ -78,7 +78,7 @@ const RESULTS = {
       "Argentina__Algeria": { "home": 3, "away": 0 },
       "Argentina__Austria": { "home": -1, "away": -1 },
       "Jordan__Algeria": { "home": -1, "away": -1 },
-      "Jordan__Austria": { "home": 3, "away": 1 },
+      "Austria__Jordan": { "home": 3, "away": 1 },
       "Algeria__Austria": { "home": -1, "away": -1 }
     },
     "K": {
